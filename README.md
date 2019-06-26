@@ -3,35 +3,35 @@ Examen de la unidad formativa UF2216.
 
 ENUNCIADO 
 
-Crear una aplicaciÃ³n que nos solicite datos por pantalla para poder crear nuevos registros en nuestro CMS.
-Nuestro CMS se encarga de gestionar REVISTAS, por lo cual la aplicaciÃ³n debe solicitar los siguientes datos:
+Crear una aplicación que nos solicite datos por pantalla para poder crear nuevos registros en nuestro CMS.
+Nuestro CMS se encarga de gestionar REVISTAS, por lo cual la aplicación debe solicitar los siguientes datos:
 
-1. Titulo                          tamaÃ±o mÃ­nimo 3 letras, mÃ¡ximo 150
-2. ISBN                            nÃºmero de longitud 10
-3. NÃºmero de PÃ¡ginas               mÃ­nimo 1
+1. Titulo                          tamaño mínimo 3 letras, máximo 150
+2. ISBN                            número de longitud 10
+3. Número de Páginas               mínimo 1
 4. Formato ( digital o papel )     true == digital / false == papel
 
-Cada campo que solicitamos deberÃ¡ ser comprobado que tiene un formato valido, en caso de no cumplir el formato se solicitarÃ¡ de nuevo el mismo campo. 
+Cada campo que solicitamos deberá ser comprobado que tiene un formato valido, en caso de no cumplir el formato se solicitará de nuevo el mismo campo. 
 Si el formato es correcto solicita el siguiente campo. 
 
-Cuando termina de solicitar todos los campos debe mostrar un resumen del revista a ingresar en el CMS, para pedir una confirmaciÃ³n si se quiere guardar.
+Cuando termina de solicitar todos los campos debe mostrar un resumen del revista a ingresar en el CMS, para pedir una confirmación si se quiere guardar.
 
-AdemÃ¡s deberÃ¡ tener las siguientes funcionalidades:
+Además deberá tener las siguientes funcionalidades:
 
-Â· Listar revistas insertados ( ordenado por numero de pÃ¡ginas )
-Â· Guardar en un fichero.txt todos las revistas
-Â· Todas las revistas deben implementar una interfaz vacÃ­a Leible
-Â· *Usar un DAO y patron Sngleton es opcional
+· Listar revistas insertados ( ordenado por numero de páginas )
+· Guardar en un fichero.txt todos las revistas
+· Todas las revistas deben implementar una interfaz vacía Leible
+· *Usar un DAO y patron Sngleton es opcional
  
-PUNTUACIÃ“N
+PUNTUACIÓN
 
-Â· Crear Revista                         3 puntos
-Â· Listar Revistas                       1 puntos
-Â· OrdenaciÃ³n revistas                   1 punto
-Â· Mensajes al usuario UX                2 punto
-Â· CÃ³digo optimo y bien estructurado     1 punto
-Â· Junit para Revista                    1 punto
-Â· Guardar en Fichero Texto              1 punto
+· Crear Revista                         3 puntos
+· Listar Revistas                       1 puntos
+· Ordenación revistas                   1 punto
+· Mensajes al usuario UX                2 punto
+· Código optimo y bien estructurado     1 punto
+· Junit para Revista                    1 punto
+· Guardar en Fichero Texto              1 punto
 
 
 MODO ENTREGA
