@@ -1,0 +1,3 @@
+(ISBN ---- NOMBRE ---- PÁGINAS ---- FORMATO
+** ISBN: 9876543210 - Hobby Consolas, 200 paginas. Formato Digital
+** ISBN: 1234567890 - Jara Y Sedal, 50 paginas. Formato Físico
